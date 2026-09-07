@@ -1,0 +1,15 @@
+{
+  "name": "Gestão+ Sistema de Gestão Empresarial",
+  "short_name": "Gestão+",
+  "description": "Sistema de gestão empresarial: PDV, Caixa, Estoque, Financeiro, Serviços, Relatórios, Nota Fiscal e Suporte.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F6F8",
+  "theme_color": "#1F3A5F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
